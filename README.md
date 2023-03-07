@@ -7,8 +7,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-    <img align="center"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-          
+    <img align="center"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">          
 </div>
  
  
